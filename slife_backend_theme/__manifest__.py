@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
 	'name': "SLife Backend Theme",
-	'summary': """SLife Backend Theme""",
+	'summary': """Accordion Menu, Font Awesome Icon""",
 	'description': """Accordion Menu, Font Awesome Icon""",
 	'author': "SLife Organization, Amichia Fréjus Arnaud AKA",
 	'category': 'Themes/Backend',
